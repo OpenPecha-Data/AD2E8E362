@@ -1,0 +1,19 @@
+segment_sources:
+  PF9A59937:
+    type: origin_type
+    relation: translation
+    language: en
+  P02F3943C:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  e936b57c9a4f4bbd96e7ea9a83da68ce:
+    PF9A59937: af913d48a64343d6bb9f52954fe42b3a
+    P02F3943C: 106ef92855404679a5a988a9237fcc81
+  a14128d893da4bba9e9a29a56a17736d:
+    PF9A59937: 68edd41a87284d82a3d31ad4978d974f
+    P02F3943C: be18f493eb0e4233a7f671772869fac7
+  57e15afd46e74d11b2a42e7f8794bec6:
+    PF9A59937: 987c8c4bed9e43b09d2b3ea2e4b1f369
+    P02F3943C: 4b768fa7422344719bec26343dd1ce23
